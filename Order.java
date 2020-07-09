@@ -8,7 +8,7 @@
  * comparable and should firstly be compared by their associated product, 
  * and if these are the same, then by their quantity.
  * 
- * @author P2519798 
+ * @author Samuel 
  */
 public class Order implements Comparable<Order>, PricePolicy {
 	
