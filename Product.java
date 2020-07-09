@@ -10,7 +10,7 @@
  * order. They should firstly be compared by product code, if these are the same,
  * then by description, and if these are the same, then by unit price.
  * 
- * @author P2519798
+ * @author Samuel
  */
 public class Product implements Comparable<Product> {
 	
